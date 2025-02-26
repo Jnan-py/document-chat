@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+langchain_google_genai
+google-generativeai
+pinecone-client
+langchain_pinecone
+python-dotenv
+plotly
+streamlit-option-menu
