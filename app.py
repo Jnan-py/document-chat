@@ -24,7 +24,6 @@ if index_name not in [i['name'] for i in pc.list_indexes()] :
 
 index = pc.Index(index_name)
 
-
 embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
 
 def get_chunks(text):
